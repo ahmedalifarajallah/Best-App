@@ -322,7 +322,7 @@ header label {
 .about .about-cont .about-txt p {
   line-height: 1.6;
   font-size: 14px;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   color: #666;
 }
 @media (max-width: 768px) {
@@ -333,10 +333,11 @@ header label {
   .about .about-cont {
     display: flex;
     flex-wrap: wrap;
+    text-align- center;
   }
   
   .about .about-cont .about-txt h3 {
-    font-size: 18xp
+    font-size: 22px
   }
   
   .about .about-cont img {
