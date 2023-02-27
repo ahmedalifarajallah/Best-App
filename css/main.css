@@ -333,7 +333,7 @@ header label {
   .about .about-cont {
     display: flex;
     flex-wrap: wrap;
-    text-align- center;
+    text-align: center;
   }
   
   .about .about-cont .about-txt h3 {
